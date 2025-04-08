@@ -80,4 +80,4 @@ Always keep your API key secure:
 
 ## Contributing
 
-Pull requests and issue reports are welcome at [https://github.com/b0sH1wOw/orion].
+Pull requests and issue reports are welcome at https://github.com/b0sH1wOw/orion.
