@@ -58,7 +58,6 @@ Orion is an Emacs package that provides AI-assisted code completion, similar to 
 | `orion-model`    | AI model to use                          | "gpt-4", "code-davinci-002"            |
 | `orion-api-url`  | Endpoint for the AI API                  | "https://api.openai.com/v1/completions" |
 | `orion-api-key`  | Your API key (keep secure!)              | "sk-...abc123"                         |
-| `orion-delay`    | Delay before suggestions appear (seconds) | 0.5                                    |
 
 ### Security Note
 
@@ -77,5 +76,8 @@ Always keep your API key secure:
   - Ensure the `request` package is installed
 
 - **Slow performance**:
-  - Try increasing `orion-delay`
   - Check your AI API's rate limits
+
+## Contributing
+
+Pull requests and issue reports are welcome at [https://github.com/b0sH1wOw/orion].
